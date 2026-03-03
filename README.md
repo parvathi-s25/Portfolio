@@ -3,7 +3,7 @@
 A modern, dark-themed AI & Data Science portfolio website built with semantic HTML5, CSS3 (Glassmorphism), and Vanilla JavaScript.
 
 ## 🚀 Live Demo
-[https://parvathi-portfolio.vercel.app](https://parvathi-portfolio.vercel.app)
+[https://portfolio-virid-six-74.vercel.app/]
 
 ## 🛠️ Features
 - **Modern UI**: Dark-themed with neon blue accents and glassmorphism.
